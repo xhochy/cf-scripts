@@ -10,6 +10,8 @@ Welcome to cf-scripts's documentation!
    :maxdepth: 2
 
    migrators
+   usage
+   version_migrator
 
    :caption: Contents:
 
